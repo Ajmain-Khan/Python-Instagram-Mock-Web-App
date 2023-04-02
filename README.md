@@ -1,5 +1,5 @@
 # Python-Instagram-Mock-Web-App
-A mockup of Instagram's core features in Python using Flask.
+A mockup of Instagram's core features using Python & Flask for backend, and the HTML/JavaScript/CSS stack.
 
 ## Features
 - Login/Registration
