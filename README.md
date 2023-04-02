@@ -19,17 +19,14 @@ A mockup of Instagram's core features in Python using Flask.
 
 https://user-images.githubusercontent.com/71261373/229378221-1484b176-221a-4e94-be03-a2468942f660.mp4
 
-### Login Page
-![login](demo/login.png?raw=True)
+### Views                             
+|Login Page | Profile Page |
+|   :---:   |     :---:    |
+![login](demo/login.png?raw=True) | ![profile](demo/profileView.png?raw=True)
 
-### Profile Page
-![profile](demo/profileView.png?raw=True)
-
-### Upload Image Interface
-![profile](demo/postInterface.png?raw=True)
-
-### Capture Image Interface
-![profile](demo/captureImage.png?raw=True)
+|Upload Image Interface | Capture Image Interface |
+|   :---:   |     :---:    |
+![post](demo/postInterface.png?raw=True)  | ![capture](demo/captureImage.png?raw=True) 
 
 ## Requirements
  - Flask
