@@ -17,7 +17,7 @@ A mockup of Instagram's core features in Python using Flask.
 
 ## Demo
 
-![video](demo/appDemo.mp4)
+https://user-images.githubusercontent.com/71261373/229378221-1484b176-221a-4e94-be03-a2468942f660.mp4
 
 ### Login Page
 ![login](demo/login.png?raw=True)
