@@ -13,8 +13,6 @@ A mockup of Instagram's core features using Python & Flask for backend, and the 
 - Like/Comment Interactions
 - Persistency via SQLite database
 
-
-
 ## Demo
 
 https://user-images.githubusercontent.com/71261373/229378221-1484b176-221a-4e94-be03-a2468942f660.mp4
